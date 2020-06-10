@@ -1,2 +1,2 @@
-# movies-analysis
-Analyzing movies watched in letterboxd
+# Movies Analysis
+Analyzing movies watched in letterboxd.
