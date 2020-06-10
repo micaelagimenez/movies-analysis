@@ -1,2 +1,2 @@
 # Movies Analysis
-Analyzing movies watched in letterboxd.
+Data visualisation of movies in letterboxd.
